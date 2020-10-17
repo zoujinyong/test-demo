@@ -1,2 +1,7 @@
 # test-demo
-测试仓库
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/zoujinyong/test-demo.git
+git push -u origin main
